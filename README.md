@@ -8,7 +8,7 @@
 
 <img width="203" alt="" src="">
 
-![Badge](https://img.shields.io/badge/Segmentation-AI-Application-purple)
+![Badge](https://img.shields.io/badge/SegmentAI-Application-purple)
 ![Badge](https://img.shields.io/badge/AI-App-Pink)
 ![Badge](https://img.shields.io/badge/PhotoEditor-App-pink)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-blue)
