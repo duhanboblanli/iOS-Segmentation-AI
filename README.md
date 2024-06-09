@@ -6,6 +6,8 @@
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/9d2ac6d1-4c66-4920-8876-049643d148b5">
 <img width="203" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e915d8f3-740c-4718-aee6-5a84362a7f31">
 
+<img width="203" alt="" src="">
+
 ![Badge](https://img.shields.io/badge/Dietitian-Application-purple)
 ![Badge](https://img.shields.io/badge/Nutrition-App-Pink)
 ![Badge](https://img.shields.io/badge/ChatAndTracker-App-pink)
