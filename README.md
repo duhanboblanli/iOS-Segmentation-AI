@@ -36,7 +36,8 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 
 
 # Snapshots of iOS App
-![Ekran Resmi 2024-06-09 23 11 07](https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/04ee57a2-d79c-4632-b485-13ff8c2543ab){ width=200 }
+<img width="200" alt="Ekran Resmi 2024-06-09 23 11 07" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/04ee57a2-d79c-4632-b485-13ff8c2543ab">
+
 
 
 
