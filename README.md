@@ -36,12 +36,21 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 
 
 # Snapshots of iOS App
-<img width="200" alt="Ekran Resmi 2024-06-09 23 11 07" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/04ee57a2-d79c-4632-b485-13ff8c2543ab">
 
 
 
-
-
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/df1348b4-f625-402e-80db-05f0ae969a4a">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/4cd131f5-8aaa-4f9c-8080-1c90560f6c6a">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e459427e-54c8-4845-9f27-43425597acdc">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/dc346e4b-a2a8-4ce4-aecd-0572dfef8da0">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/46770723-abc4-43ad-ab02-4ef8859837de">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/49f15e84-6515-440b-8167-35530751c939">
+<img width="200" alt="" src="">
+<img width="200" alt="" src="">
+<img width="200" alt="" src="">
+<img width="200" alt="" src="">
+<img width="200" alt="" src="">
+<img width="200" alt="" src="">
 
 
 
