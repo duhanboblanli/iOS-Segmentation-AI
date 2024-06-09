@@ -8,15 +8,12 @@
 
 <img width="203" alt="" src="">
 
-![Badge](https://img.shields.io/badge/Dietitian-Application-purple)
-![Badge](https://img.shields.io/badge/Nutrition-App-Pink)
-![Badge](https://img.shields.io/badge/ChatAndTracker-App-pink)
+![Badge](https://img.shields.io/badge/Segmentation-Application-purple)
+![Badge](https://img.shields.io/badge/AI-App-Pink)
+![Badge](https://img.shields.io/badge/PhotoEditor-App-pink)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-blue)
-![badge](https://img.shields.io/badge/Platfrom-Android-gold)
-![badge](https://img.shields.io/badge/Platfrom-Java-orange)
-![badge](https://img.shields.io/badge/Platfrom-Docker-yellowgreen)
-![badge](https://img.shields.io/badge/Platfrom-MySQL-red)
-![Badge](https://img.shields.io/badge/License-MIT-yellow) 
+![badge](https://img.shields.io/badge/Platfrom-AWS-yellowgreen)
+![Badge](https://img.shields.io/badge/License-SAM-Model-yellow) 
 
 # Purpose: Development Goals and Objectives
  
