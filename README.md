@@ -87,7 +87,7 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 
 
 # Snapshots of iOS App
-<img width="200" alt="Image 1" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/0ba57fd6-ba3e-45ef-8de3-f4acf01f163c">
+<img width="200" alt="Image 1" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/bef094f4-60b0-492a-9fd5-f1eecf9764fc">
 <img width="200" alt="Image 2" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/65c23694-efec-4201-a9ca-99cb851307a7">
 <img width="200" alt="Image 3" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/68da282c-72f4-490b-8021-fffc7e355a2a">
 <img width="200" alt="Image 4" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/1a56e32c-bc27-4d95-98d8-c5a2837c91de">
@@ -96,6 +96,7 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 <img width="200" alt="Image 7" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/raw/main/assets/77344408/30981f89-5f30-4140-b8f7-1efd34ccb698">
 
 
+![Ekran Resmi 2024-06-09 23 11 07](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/bef094f4-60b0-492a-9fd5-f1eecf9764fc)
 
 
 
