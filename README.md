@@ -1,9 +1,6 @@
 # iOS Segmentation AI App for Visover Software Technologies
 
-<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1">
-<img width="240" alt="" src="[https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1)">
-<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/b80810c7-0dd1-425b-b7fd-d053a7d83652">
-<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c125dfb5-11e7-455d-9bfd-d0eced7a343e">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1"><img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/b80810c7-0dd1-425b-b7fd-d053a7d83652"><img width="200" alt="" src="[https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1)"><img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c125dfb5-11e7-455d-9bfd-d0eced7a343e">
 
 
 
