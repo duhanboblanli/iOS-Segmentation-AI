@@ -26,24 +26,12 @@ The implementation of Segment Anything is based on the open-source SAM (Segment 
 
 ## Features
 
-As an iOS Developer, I played a key role in developing this application from scratch. I utilized various architectures, such as MVVM, MVC, and Clean Swift, to ensure a robust and scalable codebase. Here are some key features and technologies used in the development:
-
+- **Architectures: MVVM, MVC, and Clean Swift to ensure a robust and scalable codebase.
 - **Technologies:** Swift, UIKit, Programmatic UI Design, SwiftUI, Figma, Jira, and Git.
-- **Main Responsibilities:** Development of Main View, Subscription, Gallery, Settings, Animated Side Menu, Animated Tab Bar, and Photo Editor.
+- **Main Views:** Development of Main View, Subscription, Gallery, Settings, Animated Side Menu, Animated Tab Bar, and Photo Editor.
 - **Third-Party Libraries and REST APIs:** Alamofire, SSL Communication, Google Mobile Ads, AdMob.
 - **Firebase Integration:** Crashlytics, Remote Config, Analytics, Firestore Database, Authentication, and Debug View.
 
-## Privacy and Confidentiality
-
-This repository contains files and information that are proprietary to Visover Software Technologies. All content within this repository is confidential and must not be disclosed without prior authorization from the company.
-
-For any inquiries or further information, please contact Visover Software Technologies directly.
-
-Thank you for using 'Segment AI: Cut-Out Objects'!
-
----
-
-**Visover Software Technologies**
 
 # Snapshots of App
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/df1348b4-f625-402e-80db-05f0ae969a4a">
