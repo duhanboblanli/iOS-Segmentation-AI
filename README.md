@@ -5,7 +5,7 @@
 
 ![Ekran Resmi 2024-06-09 23 16 37](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c)
 
-<img width="240" alt="Ekran Resmi 2024-06-09 23 16 37" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c">
+<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c">
 
 
 
