@@ -1,8 +1,11 @@
 # iOS Segmentation AI App for Visover Software Technologies
 
+![Ekran Resmi 2024-06-09 23 46 54](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/50844de4-853b-4f6d-a882-32ca1236ae27)
 
 
-https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/8a487788-d316-402f-a7b0-f9de17e8505e
+![Ekran Resmi 2024-06-09 23 16 37](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c)
+
+<img width="240" alt="Ekran Resmi 2024-06-09 23 16 37" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c">
 
 
 
