@@ -1,4 +1,4 @@
-# Segment AI: Cut-Out Objects
+ğ# Segment AI: Cut-Out Objects
 
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/35d98387-49d6-480b-8003-c45b2ea622d5">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e30d5d82-895b-4330-8b8b-c61b2b5eb03a">
@@ -58,7 +58,9 @@ The implementation of Segment Anything is based on the open-source SAM (Segment 
 
 # Demo
 https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/8e710929-b8e8-4278-bfc7-575c8553ef30
+
 https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/2962226b-983e-4cec-bb27-f46ff1b7da58
+
 https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/ca52073a-a6e2-4e6b-9501-b58b844194f4
 
 
