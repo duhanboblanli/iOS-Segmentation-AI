@@ -26,10 +26,9 @@ The implementation of Segment Anything is based on the open-source SAM (Segment 
 
 ## Features
 
-- **Architectures: MVVM, MVC, and Clean Swift to ensure a robust and scalable codebase.
+- **Architectures:** MVVM, MVC, and Clean Swift to ensure a robust and scalable codebase.
 - **Technologies:** Swift, UIKit, Programmatic UI Design, SwiftUI, Figma, Jira, and Git.
-- **Main Views:** Development of Main View, Subscription, Gallery, Settings, Animated Side Menu, Animated Tab Bar, and Photo Editor.
-- **Third-Party Libraries and REST APIs:** Alamofire, SSL Communication, Google Mobile Ads, AdMob.
+- **Third-Party Libraries and REST APIs:** Alamofire, SSL Communication, Google Mobile Ads, AdMob, AWS.
 - **Firebase Integration:** Crashlytics, Remote Config, Analytics, Firestore Database, Authentication, and Debug View.
 
 
