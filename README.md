@@ -1,16 +1,12 @@
 # iOS Segmentation AI App for Visover Software Technologies
 
-![Ekran Resmi 2024-06-09 23 46 54](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/50844de4-853b-4f6d-a882-32ca1236ae27)
-
-
-![Ekran Resmi 2024-06-09 23 16 37](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c)
-
-<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c">
-
+<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1">
+<img width="240" alt="" src="[https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/a604d6b0-2e64-4c8e-ad68-dd02c1dbd66c](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/460b9751-7aa0-4ef5-8cd3-256fa64e53f1)">
+<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/b80810c7-0dd1-425b-b7fd-d053a7d83652">
+<img width="240" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c125dfb5-11e7-455d-9bfd-d0eced7a343e">
 
 
 
-<img width="200" alt="Ekran Resmi 2024-05-07 18 45 56" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/7552fc55-e03c-4e27-875b-bf519e6d4caa"><img width="200" alt="Ekran Resmi 2024-05-07 18 46 35" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/b6af25f4-2688-4f1b-a88b-5a4aebbe949b"><img width="200" alt="main" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/bf01fca9-8e6f-48f3-a9e2-721d805705e5"><img width="200" alt="Ekran Resmi 2024-05-07 18 48 47" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/f4a4016b-e0a8-4bff-88c0-3cdc907f7a72">
 
 ![Badge](https://img.shields.io/badge/Dietitian-Application-purple)
 ![Badge](https://img.shields.io/badge/Nutrition-App-Pink)
