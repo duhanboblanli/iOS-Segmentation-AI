@@ -45,12 +45,36 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/dc346e4b-a2a8-4ce4-aecd-0572dfef8da0">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/46770723-abc4-43ad-ab02-4ef8859837de">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/49f15e84-6515-440b-8167-35530751c939">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/59bbb1fa-0b04-47d7-a5a3-0c73bf71652a">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/ea229fe9-3383-4621-b5a8-bd8233fa923f">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/403cb420-ad83-401c-93f0-2bb9f1bbcf36">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/54d28c97-f4fa-4a1e-b740-fb064109af2a">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/604d87af-23ad-4ccf-9201-858bed20e94a">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/aabaa8a3-d040-47c8-933a-c3f1eada18da">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/dc91ecca-55a7-4b13-9ec2-f13df9522784">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/23a62a51-291a-4b57-952e-72d0058c3016">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/22513b80-2fba-4657-969b-dc3aa0e79b26">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/76b50f63-99fe-43d3-b464-95e0c80aee0e">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/bbefa0f4-93d2-4837-a341-bb9a05dc184d">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/88d4864e-5690-4ff2-ba9e-8b9b00e6d302">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/83f443ed-3516-4ba5-adab-27aef993ab72">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/73124fa8-ff34-4266-83b6-51b0baa7b171">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/3ed3b869-ea5c-4ebe-8e3a-8efb67b05db0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
