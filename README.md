@@ -1,4 +1,4 @@
-# iOS Segmentation AI 
+# Segment AI: Cut-Out Objects
 
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/35d98387-49d6-480b-8003-c45b2ea622d5">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e30d5d82-895b-4330-8b8b-c61b2b5eb03a">
@@ -14,9 +14,36 @@
 ![badge](https://img.shields.io/badge/WebService-AWS-yellowgreen)
 ![Badge](https://img.shields.io/badge/Model-SAM-yellow) 
 
-# Purpose: Development Goals and Objectives
- 
-The purpose of this thesis is to facilitate communication between dietitians and their clients and to improve the management of diet programs. Clients can track their daily eating habits to reach the goals set by the dietitian and communicate with the dietitian through the app. Dietitians can monitor their clients' daily eating habits, make necessary interventions, and manage the diet program more effectively.
+
+Welcome to the 'Segment AI: Cut-Out Objects' application, developed for Visover Software Technologies. This repository serves as a demonstration and therefore its files are kept confidential.
+
+
+## About the Application
+
+'Segment AI: Cut-Out Objects' is an advanced image segmentation application available on the App Store. Enjoy state-of-the-art image segmentation on your iPhone or iPad. All processing is done locally on your device, ensuring that everything works without a network connection. The application is optimized for smooth, reliable performance.
+
+The implementation of Segment Anything is based on the open-source SAM (Segment Anything Model).
+
+## Features
+
+As an iOS Developer, I played a key role in developing this application from scratch. I utilized various architectures, such as MVVM, MVC, and Clean Swift, to ensure a robust and scalable codebase. Here are some key features and technologies used in the development:
+
+- **Technologies:** Swift, UIKit, Programmatic UI Design, SwiftUI, Figma, Jira, and Git.
+- **Main Responsibilities:** Development of Main View, Subscription, Gallery, Settings, Animated Side Menu, Animated Tab Bar, and Photo Editor.
+- **Third-Party Libraries and REST APIs:** Alamofire, SSL Communication, Google Mobile Ads, AdMob.
+- **Firebase Integration:** Crashlytics, Remote Config, Analytics, Firestore Database, Authentication, and Debug View.
+
+## Privacy and Confidentiality
+
+This repository contains files and information that are proprietary to Visover Software Technologies. All content within this repository is confidential and must not be disclosed without prior authorization from the company.
+
+For any inquiries or further information, please contact Visover Software Technologies directly.
+
+Thank you for using 'Segment AI: Cut-Out Objects'!
+
+---
+
+**Visover Software Technologies**
 
 # Snapshots of App
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/df1348b4-f625-402e-80db-05f0ae969a4a">
