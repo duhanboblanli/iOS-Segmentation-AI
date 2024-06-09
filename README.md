@@ -20,7 +20,7 @@ Welcome to the 'Segment AI: Cut-Out Objects' application, developed for Visover 
 
 ## About the Application
 
-'Segment AI: Cut-Out Objects' is an advanced image segmentation application available on the App Store. Enjoy state-of-the-art image segmentation on your iPhone or iPad. All processing is done locally on your device, ensuring that everything works without a network connection. The application is optimized for smooth, reliable performance.
+'Segment AI: Cut-Out Objects' is an advanced image segmentation application available on the App Store. Enjoy state-of-the-art image segmentation on your iPhone or iPad. All processing is done through AWS, ensuring powerful and efficient performance. The application is optimized for smooth, reliable operation.
 
 The implementation of Segment Anything is based on the open-source SAM (Segment Anything Model).
 
