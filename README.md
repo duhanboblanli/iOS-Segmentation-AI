@@ -12,8 +12,8 @@
 ![Badge](https://img.shields.io/badge/AI-App-Pink)
 ![Badge](https://img.shields.io/badge/PhotoEditor-App-pink)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-blue)
-![badge](https://img.shields.io/badge/Platfrom-AWS-yellowgreen)
-![Badge](https://img.shields.io/badge/License-SAM-Model-yellow) 
+![badge](https://img.shields.io/badge/WebService-AWS-yellowgreen)
+![Badge](https://img.shields.io/badge/Model-SAM-yellow) 
 
 # Purpose: Development Goals and Objectives
  
