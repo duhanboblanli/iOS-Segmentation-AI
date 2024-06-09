@@ -56,6 +56,12 @@ The implementation of Segment Anything is based on the open-source SAM (Segment 
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c28be11a-a5b9-45de-a6fb-e7a707acdd83">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c912aea4-2d41-4afe-b934-731720a804f8">
 
+# Demo
+https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e75a60f4-0899-45d3-b006-6f996dc23da4
+
+
+
+
 
 
 
