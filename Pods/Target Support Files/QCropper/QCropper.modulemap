@@ -1,0 +1,6 @@
+framework module QCropper {
+  umbrella header "QCropper-umbrella.h"
+
+  export *
+  module * { export * }
+}

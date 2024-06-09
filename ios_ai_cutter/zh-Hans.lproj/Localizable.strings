@@ -1,0 +1,164 @@
+/* 
+  Localizable.strings Chinese, Simplified
+  ios_ai_cutter
+
+  Created by Duhan Boblanlı on 6.09.2023.
+  
+*/
+
+// Note: The texts on the left are reference values in the classes and should not be changed.
+// ** means --> text must be the same or similar length (includes changeable auto layout constraints)
+
+// HorizontalScrollView Texts
+"recently-string" = "最近";
+"library-access-string" = "请允许访问您的照片库";
+"no-photos-string" = "没有要显示的照片";
+"add-photos-string" = "请添加照片";
+"ok-string" = "好的";
+
+// SubscriptionNavigationButton Texts
+"remaining-usage-string" = "每日剩余使用次数 :";
+"full-access-string" = "获取高级功能的完全访问权限！";
+
+// SideMenu Texts
+"settings-string" = "设置";
+"subscription-plan-string" = "订阅计划";
+"faq-string" = "常见问题";
+"about-string" = "关于";
+
+// SettingsView Texts
+"mode-string" = "模式";
+"language-string" = "语言";
+"MANAGE_PERMISSIONS" = "管理权限";
+"SEND_FEEDBACK" = "发送反馈";
+"INVITE_FRIENDS" = "邀请好友";
+"RATE_US_ON_APPSTORE" = "在应用商店评价我们";
+
+// AboutView Texts
+"privacy-policy-string" = "隐私政策";
+"terms-string" = "使用条款";
+"version-string" = "版本 : ";
+"email-string" = "info@fogosoft.co.uk";
+"ltd-string" = "FOGOSOFT 有限公司";
+
+// LanguageView Texts
+"language-string" = "语言";
+// Same in all languages
+"eng-string" = "English";
+"spn-string" = "Español";
+"ger-string" = "Deutsch";
+"fr-string" = "Français";
+"it-string" = "Italiano";
+"rus-string" = "Русский";
+"tr-string" = "Türkçe";
+"jap-string" = "日本語";
+"zh-hans-string" = "中文(简体)"; // simplified-chinese
+
+// SubscriptionView Texts
+"remove-ads-string" = "无广告体验";
+"credit-string" = "x 信用/天";
+"restore-string" = "恢复购买";
+"subs-string" = "订阅";
+"one-time-string" = "一次性购买";
+"weekly-plan-string" = "每周计划";
+"weekly-offer-string" = "3天免费试用";
+"yearly-plan-string" = "年度计划";
+
+// GalleryView Texts
+"albums-string" = "相册";
+"recents-string" = "最近";
+
+// OnboardingContentView Texts
+"onboarding-page1-title-string" = "发现人工智能图像分割的力量";
+"onboarding-page1-description-string" = "选择您要分割的图像，让我们的人工智能模型来处理剩下的部分。";
+"onboarding-page2-title-string" = "选择所需的掩膜";
+"onboarding-page2-description-string" = "点击您要在分割图像上保留的对象，然后创建您的剪切列表。";
+"onboarding-page3-title-string" = "无限的掩膜，无限的变化";
+"onboarding-page3-description-string" = "您可以组合任意数量的掩膜，然后保存或分享它们。";
+
+"start-button-string" = "开始";
+"next-button-string" = "下一步";
+"skip-button-string" = "跳过";
+
+// SubscribedUserView
+"your-plan-string" = "您的计划:";
+"weekly-plan-string2" = "每周计划";
+"change-plan-string" = "更改计划";
+"one-time-string2" = "一次性购买";
+"yearly-plan-string2" = "年度计划";
+"terms-policy-string" = "使用条款";
+"PRIVACY_POLICY" = "隐私政策";
+"3_DAYS_FOR_FREE" = "免费3天";
+
+// AI Cut Texts
+"TAP_TO_SEGMENT" = "点击进行分割";
+"WATCH_THE_AD" = "观看广告以继续";
+"OR" = "或";
+"MAGIC_IS_HAPPENING" = "魔法正在发生！";
+"CHOOSE_YOUR_MASKS" = "选择您的掩膜！";
+"INCLUDE" = "包括";
+"EXCLUDE" = "排除";
+"ADD_TO_LIST" = "添加到列表";
+"CUT_OUT_LIST" = "剪切列表";
+"SAVED_TO_GALLERY" = "已保存到相册！";
+
+// FAQ
+"Q1" = "什么是图像分割？";
+"A1" = "图像分割是将图像分成不同对象或区域的过程。我们的应用程序旨在执行此过程。";
+"Q2" = "我如何使用您的应用程序？";
+"A2" = "打开应用程序，选择要分割的图像，然后启动图像分割过程。完成后，您可以点击要剪切的对象并创建您的剪切列表，然后进行下载或共享。";
+"Q3" = "处理需要多长时间？";
+"A3" = "处理时间取决于图像的大小和复杂性。通常从几秒到几分钟不等。";
+"Q4" = "您的应用程序费用是多少？";
+"A4" = "免费版本具有有限的每日信用使用次数，并可以带广告使用，但我们提供了一个无广告和每天更多信用使用的订阅。有关价格详细信息，请参阅应用程序内。";
+"Q5" = "如果我没有互联网连接，我可以使用该应用程序吗？";
+"A5" = "为了能够使用应用程序的所有功能，建议连接到互联网。";
+"Q6" = "采取了哪些安全措施？";
+"A6" = "我们的应用程序采用强大的安全措施来保护用户数据。您的图像不会存储在我们的服务器上，并且将安全地进行处理。";
+"Q7" = "我遇到了问题，我该怎么办？";
+"A7" = "您可以向info@fogosoft.co.uk发送问题并提供反馈。我们的技术支持团队将协助您解决任何问题。";
+
+//Exit Dialogue
+"ARE_YOU_SURE_LEAVE" = "你确定要离开吗？";
+"IF_YOU_LEAVE" = "如果你离开，你的分割图像将会丢失。";
+"YES" = "是的";
+"CANCEL" = "取消";
+
+"MASK_SIZE" = "口罩尺寸";
+"MIN" = "最小";
+"MAX" = "最大";
+"BACK" = "返回";
+
+//照片编辑器
+"DONE" = "完成";
+"EDIT" = "编辑";
+"All Luts" = "所有滤镜";
+"Original" = "原图";
+"Lut1" = "滤镜1";
+"Lut2" = "滤镜2";
+"Lut3" = "滤镜3";
+"Neutral" = "中性";
+"Basic" = "基础";
+"Cinematic" = "电影风格";
+"Film" = "胶片";
+"Selfie" = "自拍";
+"Save" = "保存";
+"Edit Color" = "编辑颜色";
+"Contrast" = "对比度";
+"Hue" = "色调";
+"Saturation" = "饱和度";
+"Luminance" = "亮度";
+"Brightness" = "亮度";
+"Highlights" = "高光";
+"Shadows" = "阴影";
+"Temperature" = "色温";
+"Tint" = "色调";
+"White Balance" = "白平衡";
+"Tone" = "色调";
+"HSL" = "HSL";
+"Fade" = "淡化";
+"RESET" = "重置";
+"ORIGINAL" = "原始";
+"FREEFORM" = "自由形状";
+"SQUARE" = "正方形";
+"CIRCULAR" = "圆形";

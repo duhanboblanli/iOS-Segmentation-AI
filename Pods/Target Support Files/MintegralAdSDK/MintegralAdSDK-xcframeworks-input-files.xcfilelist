@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/MintegralAdSDK/MintegralAdSDK-xcframeworks.sh
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDKBanner.xcframework
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDKBidding.xcframework
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDKInterstitialVideo.xcframework
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDK.xcframework
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDKNewInterstitial.xcframework
+${PODS_ROOT}/MintegralAdSDK/Fmk/MTGSDKReward.xcframework

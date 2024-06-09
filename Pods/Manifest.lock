@@ -1,0 +1,155 @@
+PODS:
+  - Alamofire (5.8.0)
+  - AppLovinSDK (11.11.3)
+  - FBAudienceNetwork (6.14.0)
+  - FLAnimatedImage (1.0.17)
+  - Google-Mobile-Ads-SDK (10.10.0):
+    - GoogleAppMeasurement (< 11.0, >= 7.0)
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleAppMeasurement (10.15.0):
+    - GoogleAppMeasurement/AdIdSupport (= 10.15.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.11)
+    - GoogleUtilities/MethodSwizzler (~> 7.11)
+    - GoogleUtilities/Network (~> 7.11)
+    - "GoogleUtilities/NSData+zlib (~> 7.11)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleAppMeasurement/AdIdSupport (10.15.0):
+    - GoogleAppMeasurement/WithoutAdIdSupport (= 10.15.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.11)
+    - GoogleUtilities/MethodSwizzler (~> 7.11)
+    - GoogleUtilities/Network (~> 7.11)
+    - "GoogleUtilities/NSData+zlib (~> 7.11)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleAppMeasurement/WithoutAdIdSupport (10.15.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.11)
+    - GoogleUtilities/MethodSwizzler (~> 7.11)
+    - GoogleUtilities/Network (~> 7.11)
+    - "GoogleUtilities/NSData+zlib (~> 7.11)"
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+  - GoogleMobileAdsMediationAppLovin (11.11.3.0):
+    - AppLovinSDK (= 11.11.3)
+    - Google-Mobile-Ads-SDK (~> 10.4)
+  - GoogleMobileAdsMediationFacebook (6.14.0.0):
+    - FBAudienceNetwork (= 6.14.0)
+    - Google-Mobile-Ads-SDK (~> 10.4)
+  - GoogleMobileAdsMediationInMobi (10.5.8.0):
+    - Google-Mobile-Ads-SDK (~> 10.4)
+    - InMobiSDK (= 10.5.8)
+  - GoogleMobileAdsMediationMintegral (7.4.4.0):
+    - Google-Mobile-Ads-SDK (~> 10.4)
+    - MintegralAdSDK (= 7.4.4)
+  - GoogleUserMessagingPlatform (2.1.0)
+  - GoogleUtilities/AppDelegateSwizzler (7.11.5):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.11.5):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.11.5):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.11.5):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.11.5):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.11.5)"
+  - GoogleUtilities/Reachability (7.11.5):
+    - GoogleUtilities/Logger
+  - InMobiSDK (10.5.8)
+  - MintegralAdSDK (7.4.4):
+    - MintegralAdSDK/BannerAd (= 7.4.4)
+    - MintegralAdSDK/BidBannerAd (= 7.4.4)
+    - MintegralAdSDK/BidInterstitialVideoAd (= 7.4.4)
+    - MintegralAdSDK/BidNativeAd (= 7.4.4)
+    - MintegralAdSDK/BidNewInterstitialAd (= 7.4.4)
+    - MintegralAdSDK/BidRewardVideoAd (= 7.4.4)
+    - MintegralAdSDK/InterstitialVideoAd (= 7.4.4)
+    - MintegralAdSDK/NativeAd (= 7.4.4)
+    - MintegralAdSDK/NewInterstitialAd (= 7.4.4)
+    - MintegralAdSDK/RewardVideoAd (= 7.4.4)
+  - MintegralAdSDK/BannerAd (7.4.4):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/BidBannerAd (7.4.4):
+    - MintegralAdSDK/BannerAd
+    - MintegralAdSDK/BidNativeAd
+  - MintegralAdSDK/BidInterstitialVideoAd (7.4.4):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/InterstitialVideoAd
+  - MintegralAdSDK/BidNativeAd (7.4.4):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/BidNewInterstitialAd (7.4.4):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/NewInterstitialAd
+  - MintegralAdSDK/BidRewardVideoAd (7.4.4):
+    - MintegralAdSDK/BidNativeAd
+    - MintegralAdSDK/RewardVideoAd
+  - MintegralAdSDK/InterstitialVideoAd (7.4.4):
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/NativeAd (7.4.4)
+  - MintegralAdSDK/NewInterstitialAd (7.4.4):
+    - MintegralAdSDK/InterstitialVideoAd
+    - MintegralAdSDK/NativeAd
+  - MintegralAdSDK/RewardVideoAd (7.4.4):
+    - MintegralAdSDK/NativeAd
+  - nanopb (2.30909.0):
+    - nanopb/decode (= 2.30909.0)
+    - nanopb/encode (= 2.30909.0)
+  - nanopb/decode (2.30909.0)
+  - nanopb/encode (2.30909.0)
+  - PromisesObjC (2.3.1)
+  - QCropper (0.1.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - FBAudienceNetwork
+  - FLAnimatedImage (~> 1.0)
+  - Google-Mobile-Ads-SDK
+  - GoogleMobileAdsMediationAppLovin
+  - GoogleMobileAdsMediationFacebook
+  - GoogleMobileAdsMediationInMobi
+  - GoogleMobileAdsMediationMintegral
+  - QCropper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppLovinSDK
+    - FBAudienceNetwork
+    - FLAnimatedImage
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleMobileAdsMediationAppLovin
+    - GoogleMobileAdsMediationFacebook
+    - GoogleMobileAdsMediationInMobi
+    - GoogleMobileAdsMediationMintegral
+    - GoogleUserMessagingPlatform
+    - GoogleUtilities
+    - InMobiSDK
+    - MintegralAdSDK
+    - nanopb
+    - PromisesObjC
+    - QCropper
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  AppLovinSDK: 623ef78363c0dd2c3ff5446cde37e4920a96b7e0
+  FBAudienceNetwork: 4d6223a9a88a22e9dca8c9e6c1829a8745b86228
+  FLAnimatedImage: bbf914596368867157cc71b38a8ec834b3eeb32b
+  Google-Mobile-Ads-SDK: 509e53bd31c6accb2d9c33b0eb66df1d54dda622
+  GoogleAppMeasurement: 722db6550d1e6d552b08398b69a975ac61039338
+  GoogleMobileAdsMediationAppLovin: 33256929837133e3ee330847e77cbbdf3417a1fc
+  GoogleMobileAdsMediationFacebook: 13b1e1b86cca4f186fdfa0ba50467479b842c342
+  GoogleMobileAdsMediationInMobi: 7c270f07438138f96c8b30a3a8f890af39683a1a
+  GoogleMobileAdsMediationMintegral: e677750fb8587adf3c02aa6655f0cc6af0ca5ec1
+  GoogleUserMessagingPlatform: dce302b8f1b84d6e945812ee7a15c3f65a102cbf
+  GoogleUtilities: 13e2c67ede716b8741c7989e26893d151b2b2084
+  InMobiSDK: 7c9f534a2e96ccebdc5e8b7ed1f8ca4dd4a36643
+  MintegralAdSDK: 25e723feacf999dd026093c4eca1c7ee400a6d73
+  nanopb: b552cce312b6c8484180ef47159bc0f65a1f0431
+  PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
+  QCropper: aef6bad1e683e62b501fb8258359ccd10c68b4f2
+
+PODFILE CHECKSUM: 7feee8f79f41d261ebce3cc6be18440e94c3a15f
+
+COCOAPODS: 1.13.0

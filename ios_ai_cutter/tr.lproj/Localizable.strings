@@ -1,0 +1,169 @@
+/* 
+  Localizable.strings Turkish
+  ios_ai_cutter
+
+  Created by Duhan Boblanlı on 6.09.2023.
+ 
+*/
+
+// HorizontalScrollView Metinleri
+"recently-string" = "Son Eklenenler";
+"library-access-string" = "Lütfen fotoğraf kütüphanenize erişime izin verin";
+"no-photos-string" = "Gösterilecek fotoğraf yok";
+"add-photos-string" = "Lütfen fotoğraf ekleyin";
+"ok-string" = "Tamam";
+
+// SubscriptionNavigationButton Metinleri
+"remaining-usage-string" = "Günlük Kullanım Hakkı :";
+"full-access-string" = "Premium özelliklere tam erişim sağlayın!";
+
+// SideMenu Metinleri
+"settings-string" = "Ayarlar";
+"subscription-plan-string" = "Abonelik Planı";
+"faq-string" = "Sıkça Sorulan Sorular";
+"about-string" = "Hakkında";
+
+// SettingsView Metinleri
+"mode-string" = "Mod";
+"language-string" = "Dil";
+"MANAGE_PERMISSIONS" = "İzinleri Yönet";
+"SEND_FEEDBACK" = "Geribildirim Gönder";
+"INVITE_FRIENDS" = "Arkadaşlarını Davet Et";
+"RATE_US_ON_APPSTORE" = "Bizi App Store'da Değerlendir";
+
+// AboutView Metinleri
+"privacy-policy-string" = "Gizlilik Politikası";
+"terms-string" = "Kullanım Koşulları";
+"version-string" = "Sürüm : ";
+"email-string" = "info@fogosoft.co.uk";
+"ltd-string" = "FOGOSOFT Ltd.";
+
+// LanguageView Texts
+"language-string" = "Dil";
+// Same in all languages
+"eng-string" = "English";
+"spn-string" = "Español";
+"ger-string" = "Deutsch";
+"fr-string" = "Français";
+"it-string" = "Italiano";
+"rus-string" = "Русский";
+"tr-string" = "Türkçe";
+"jap-string" = "日本語";
+"zh-hans-string" = "中文(简体)"; // simplified-chinese
+
+// SubscriptionView Metinleri
+"remove-ads-string" = "Reklamsız Deneyim";
+"credit-string" = "x kredi/gün";
+"restore-string" = "Geri Yükle";
+"subs-string" = "ABONE OL";
+"one-time-string" = "Tek Seferlik Satın Alma";
+"weekly-plan-string" = "Haftalık Plan";
+"weekly-offer-string" = "3 Günlük Ücretsiz Deneme";
+"yearly-plan-string" = "Yıllık Plan";
+
+// GalleryView Metinleri
+"albums-string" = "Albümler";
+"recents-string" = "Son Eklenenler";
+
+// OnboardingContentView Metinleri
+"onboarding-page1-title-string" = "Yapay Zeka ile Resim Segmentasyonunun Gücünü Keşfedin";
+"onboarding-page1-description-string" = "Segmentasyon yapmak istediğiniz resmi seçin ve yapay zeka modelimizin gerisini yapmasına izin verin.";
+"onboarding-page2-title-string" = "İstenilen maskeleri seçin";
+"onboarding-page2-description-string" = "Kesilmiş resimde istediğiniz nesnelere dokunun ve kesim listesini oluşturun.";
+"onboarding-page3-title-string" = "Sınırsız maskeler, sınırsız varyasyonlar";
+"onboarding-page3-description-string" = "Dilediğiniz sayıda maskeyi birleştirebilir ve sonra kaydedebilir veya paylaşabilirsiniz.";
+
+"start-button-string" = "BAŞLA";
+"next-button-string" = "İleri";
+"skip-button-string" = "Atla";
+
+// Abone Kullanıcı Görünümü
+"your-plan-string" = "Planınız:";
+"weekly-plan-string2" = "Haftalık Plan";
+"change-plan-string" = "PLAN DEĞİŞTİR";
+"one-time-string2" = "Tek Seferlik Satın Alma";
+"yearly-plan-string2" = "Yıllık Plan";
+"terms-policy-string" = "Kullanım Şartları";
+"PRIVACY_POLICY" = "Gizlilik Politikası";
+"3_DAYS_FOR_FREE" = "Ücretsiz 3 gün";
+
+// AI Cut Texts
+"TAP_TO_SEGMENT" = "Segmentasyona Başla";
+"WATCH_THE_AD" = "Devam etmek için reklamı izle";
+"OR" = "veya";
+"MAGIC_IS_HAPPENING" = "Sihir gerçekleşiyor!";
+"CHOOSE_YOUR_MASKS" = "Maskeni Seç!";
+"INCLUDE" = "Dahil Et";
+"EXCLUDE" = "Hariç Tut";
+"ADD_TO_LIST" = "Listeye Ekle";
+"CUT_OUT_LIST" = "Kesme Listesi";
+"SAVED_TO_GALLERY" = "Galeriye Kaydedildi!";
+
+// FAQView Texts
+"Q1" = "Resim Segmentasyonu nedir?";
+"A1" = "Resim Segmentasyonu, bir resmi farklı nesnelere veya bölgelere ayırmak için kullanılan bir süreçtir. Uygulamamız bu süreci gerçekleştirmek için tasarlanmıştır.";
+
+"Q2" = "Uygulamanızı nasıl kullanabilirim?";
+"A2" = "Uygulamayı açın, segmentasyon yapmak istediğiniz resmi seçin, ardından Resim Segmentasyonu sürecini başlatın. Tamamlandığında, kesmek istediğiniz nesnelere dokunabilir ve kesme listesi oluşturabilirsiniz, sonra indirebilir veya paylaşabilirsiniz.";
+
+"Q3" = "İşlem ne kadar sürer?";
+"A3" = "İşlem süresi resmin boyutu ve karmaşıklığına bağlı olarak değişir. Genellikle birkaç saniyeden birkaç dakikaya kadar sürebilir.";
+
+"Q4" = "Uygulamanızın maliyeti nedir?";
+"A4" = "Ücretsiz sürüm günlük kredi kullanımıyla sınırlıdır ve reklamla kullanılabilir, ancak reklamsız ve daha fazla kredi kullanımı sunan bir abonelik sunuyoruz. Fiyat detayları uygulama içinde bulunabilir.";
+
+"Q5" = "İnternete bağlı olmadan uygulamayı kullanabilir miyim?";
+"A5" = "Uygulamanın tüm özelliklerini kullanabilmeniz için internet bağlantısının olmasını öneririz.";
+
+"Q6" = "Hangi güvenlik önlemleri alınmıştır?";
+"A6" = "Uygulamamız, kullanıcı verilerini korumak için güçlü güvenlik önlemleri kullanır. Resimleriniz sunucularımızda saklanmaz ve güvenli bir şekilde işlenir.";
+
+"Q7" = "Sorunlar yaşıyorum. Ne yapmalıyım?";
+"A7" = "Sorunlarınızı ve geri bildiriminizi info@fogosoft.co.uk e-posta adresine bildirebilirsiniz. Teknik destek ekibimiz herhangi bir sorununuzda size yardımcı olacaktır.";
+
+//Exit Dialogue
+"ARE_YOU_SURE_LEAVE" = "Emin misiniz, ayrılmak istiyor musunuz?";
+"IF_YOU_LEAVE" = "Eğer ayrılırsanız, bölünmüş resminiz kaybedilecek.";
+"YES" = "Evet";
+"CANCEL" = "İptal";
+"MASK_SIZE" = "Maske Boyutu";
+"MIN" = "Minimum";
+"MAX" = "Maksimum";
+"BACK" = "Geri";
+
+//Photo Editor
+"DONE" = "Tamam";
+"EDIT" = "DÜZENLE";
+"All Luts" = "Tüm Filtreler";
+"Original" = "Orijinal";
+"Lut1" = "Filtre1";
+"Lut2" = "Filtre2";
+"Lut3" = "Filtre3";
+"Neutral" = "Nötr";
+"Basic" = "Temel";
+"Cinematic" = "Sinematik";
+"Film" = "Film";
+"Selfie" = "Selfie";
+"Save" = "Kaydet";
+"Edit Color" = "Renk Düzenle";
+"Contrast" = "Kontrast";
+"Hue" = "Ton";
+"Saturation" = "Doygunluk";
+"Luminance" = "Parlaklık";
+"Brightness" = "Parlaklık";
+"Highlights" = "Işıklar";
+"Shadows" = "Gölge";
+"Temperature" = "Sıcaklık";
+"Tint" = "Renk Tonu";
+"White Balance" = "Beyaz Dengesi";
+"Tone" = "Ton";
+"HSL" = "HSL";
+"Fade" = "Solgunluk";
+"RESET" = "SIFIRLA";
+"ORIGINAL" = "ORİJİNAL";
+"FREEFORM" = "SERBEST";
+"SQUARE" = "KARE";
+"CIRCULAR" = "DAİRESEL";
+
+
+

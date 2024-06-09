@@ -1,0 +1,164 @@
+/* 
+ Localizable.strings English
+ ios_ai_cutter
+ 
+ Created by Duhan Boblanlı on 6.09.2023.
+ 
+ */
+
+// HorizontalScrollView Texts
+"recently-string" = "Recents";
+"library-access-string" = "Please allow access to your photo library";
+"no-photos-string" = "No photos to display";
+"add-photos-string" = "Please add photos";
+"ok-string" = "OK";
+
+// SubscriptionNavigationButton Texts
+"remaining-usage-string" = "Daily Remaining Usage :";
+"full-access-string" = "Get full access to premium features!";
+
+// SideMenu Texts
+"settings-string" = "Settings";
+"subscription-plan-string" = "Subscription Plan";
+"faq-string" = "FAQ's";
+"about-string" = "About";
+
+// SettingsView Texts
+"mode-string" = "Mode";
+"language-string" = "Language";
+"MANAGE_PERMISSIONS" = "Manage Permissions";
+"SEND_FEEDBACK" = "Send Feedback";
+"INVITE_FRIENDS" = "Invite Friends";
+"RATE_US_ON_APPSTORE" = "Rate us on App Store";
+
+// AboutView Texts
+"privacy-policy-string" = "Privacy Policy";
+"terms-string" = "Terms of Use";
+"version-string" = "Version : ";
+"email-string" = "info@fogosoft.co.uk";
+"ltd-string" = "FOGOSOFT Ltd.";
+
+// LanguageView Texts
+"language-string" = "Language";
+// Same in all languages
+"eng-string" = "English";
+"spn-string" = "Español";
+"ger-string" = "Deutsch";
+"fr-string" = "Français";
+"it-string" = "Italiano";
+"rus-string" = "Русский";
+"tr-string" = "Türkçe";
+"jap-string" = "日本語";
+"zh-hans-string" = "中文(简体)"; // simplified-chinese
+
+// SubscriptionView Texts
+"remove-ads-string" = "Ad-Free Experience";
+"credit-string" = "x credit/day";
+"restore-string" = "Restore";
+"subs-string" = "SUBSCRIBE";
+"one-time-string" = "One-Time Purchase";
+"weekly-plan-string" = "Weekly Plan";
+"weekly-offer-string" = "3-Day Free Trial";
+"yearly-plan-string" = "Yearly Plan";
+
+// GalleryView Texts
+"albums-string" = "Albums";
+"recents-string" = "Recents";
+
+// OnboardingContentView Texts
+"onboarding-page1-title-string" = "Discover the Power of Image Segmentation with AI";
+"onboarding-page1-description-string" = "Select the image you want to segment and let our AI model do the rest.";
+"onboarding-page2-title-string" = "Choose the desired masks";
+"onboarding-page2-description-string" = "Tap on the objects you want on the segmented image and create your cut-out list.";
+"onboarding-page3-title-string" = "Unlimited masks, unlimited variations";
+"onboarding-page3-description-string" = "You can combine any number of masks and then save or share them";
+
+"start-button-string" = "START";
+"next-button-string" = "Next";
+"skip-button-string" = "Skip";
+
+// SubscribedUserView Texts
+"your-plan-string" = "Your Plan:";
+"weekly-plan-string2" = "Weekly Plan";
+"change-plan-string" = "CHANGE PLAN";
+"one-time-string2" = "One-Time Purchase";
+"yearly-plan-string2" = "Yearly Plan";
+"terms-policy-string" = "Terms of Use";
+"PRIVACY_POLICY" = "Privacy Policy";
+"3_DAYS_FOR_FREE" = "3 days for free";
+
+// AI Cut Texts
+"TAP_TO_SEGMENT" = "Tap to Segment";
+"WATCH_THE_AD" = "Watch the ad to continue";
+"OR" = "or"; // ?? not used
+"MAGIC_IS_HAPPENING" = "Magic is happening!";
+"CHOOSE_YOUR_MASKS" = "Choose your Mask!";
+"INCLUDE" = "Include";
+"EXCLUDE" = "Exclude";
+"ADD_TO_LIST" = "Add to List";
+"CUT_OUT_LIST" = "Cut Out List";
+"SAVED_TO_GALLERY" = "Saved to Gallery!";
+
+//  FAQ
+"Q1" = "What is Image Segmentation?";
+"A1" = "Image Segmentation is a process used to separate an image into different objects or regions. Our app is designed to perform this process.";
+"Q2" = "How can I use your app?";
+"A2" = "Open the app, select the image you wanted to segment, then initiate the Image Segmentation process. When it's complete, you can tap on to the objects you want to cut out and create your cut-out list then download or share.";
+"Q3" = "How long does the processing take?";
+"A3" = "Processing time depends on the size and complexity of the image. It typically ranges from a few seconds to a few minutes.";
+"Q4" = "What is the cost of your app?";
+"A4" = "Free version has limited daily credit usage and can be used with advertising, but we offer a subscription for an ad-free and much more credit usage per day. Pricing details can be found within the app.";
+"Q5" = "Can I use the app if I'm not connected to the internet?";
+"A5" = "To be able to use all the features of the app we recommend being connected to the internet.";
+"Q6" = "What security measures are in place?";
+"A6" = "Our app uses strong security measures to protect user data. Your images are not stored on our servers and are processed securely.";
+"Q7" = "I’m experiencing issues. What should I do?";
+"A7" = "You can report your issues and provide feedback to info@fogosoft.co.uk mail address. Our technical support team will assist you with any problems.";
+
+//Exit Dialogue
+"ARE_YOU_SURE_LEAVE" = "Are you sure you want to leave?";
+"IF_YOU_LEAVE" = "If you leave, your segmented image will be lost";
+"YES" = "Yes";
+"CANCEL" = "Cancel";
+"MASK_SIZE" = "Mask Size";
+"MIN" = "Min";
+"MAX" = "Max";
+"BACK" = "Back";
+
+
+//Photo Editor
+"DONE" = "Done";
+"EDIT" = "EDIT";
+"All Luts" = "All Luts";
+"Original" = "Original";
+"Lut1" = "Filter1";
+"Lut2" = "Filter2";
+"Lut3" = "Filter3";
+"Neutral" = "Neutral";
+"Basic" = "Basic";
+"Cinematic" = "Cinematic";
+"Film" = "Film";
+"Selfie" = "Selfie";
+"Save" = "Save";
+"Edit Color" = "Edit Color";
+"Contrast" = "Contrast";
+"Hue" = "Hue";
+"Saturation" = "Saturation";
+"Luminance" = "Luminance";
+"Brightness" = "Brightness";
+"Highlights" = "Highlights";
+"Shadows" = "Shadows";
+"Temperature" = "Temperature";
+"Tint" = "Tint";
+"White Balance" = "White Balance";
+"Tone" = "Tone";
+"HSL" = "HSL";
+"Fade" = "Fade";
+"RESET" = "RESET";
+"ORIGINAL" = "ORIGINAL";
+"FREEFORM" = "FREEFORM";
+"SQUARE" = "SQUARE";
+"CIRCULAR" = "CIRCULAR";
+
+
+

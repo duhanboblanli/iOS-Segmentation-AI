@@ -1,0 +1,6 @@
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/BannerAd/MTGSDKBanner.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/BidNativeAd/MTGSDKBidding.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/InterstitialVideoAd/MTGSDKInterstitialVideo.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/NativeAd/MTGSDK.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/NewInterstitialAd/MTGSDKNewInterstitial.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MintegralAdSDK/RewardVideoAd/MTGSDKReward.framework

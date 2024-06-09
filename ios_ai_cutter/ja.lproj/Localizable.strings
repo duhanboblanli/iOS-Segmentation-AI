@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings Japenese
+  ios_ai_cutter
+
+  Created by Duhan Boblanlı on 6.09.2023.
+  
+*/
+
+// HorizontalScrollView Texts
+"recently-string" = "最近の";
+"library-access-string" = "写真ライブラリへのアクセスを許可してください";
+"no-photos-string" = "表示する写真がありません";
+"add-photos-string" = "写真を追加してください";
+"ok-string" = "OK";
+
+// SubscriptionNavigationButton Texts
+"remaining-usage-string" = "毎日の残り利用回数 :";
+"full-access-string" = "プレミアム機能へのフルアクセスを取得！";
+
+// SideMenu Texts
+"settings-string" = "設定";
+"subscription-plan-string" = "サブスクリプションプラン";
+"faq-string" = "よくある質問";
+"about-string" = "について";
+
+// SettingsView Texts
+"mode-string" = "モード";
+"language-string" = "言語";
+"MANAGE_PERMISSIONS" = "権限の管理";
+"SEND_FEEDBACK" = "フィードバックを送信";
+"INVITE_FRIENDS" = "友達を招待";
+"RATE_US_ON_APPSTORE" = "App Storeで評価";
+
+// AboutView Texts
+"privacy-policy-string" = "プライバシーポリシー";
+"terms-string" = "利用規約";
+"version-string" = "バージョン : ";
+"email-string" = "info@fogosoft.co.uk";
+"ltd-string" = "FOGOSOFT Ltd.";
+
+// LanguageView Texts
+"language-string" = "言語";
+// Same in all languages
+"eng-string" = "English";
+"spn-string" = "Español";
+"ger-string" = "Deutsch";
+"fr-string" = "Français";
+"it-string" = "Italiano";
+"rus-string" = "Русский";
+"tr-string" = "Türkçe";
+"jap-string" = "日本語";
+"zh-hans-string" = "中文(简体)"; // simplified-chinese
+
+// SubscriptionView Texts
+"remove-ads-string" = "広告なしの体験";
+"credit-string" = "x クレジット/日";
+"restore-string" = "復元";
+"subs-string" = "購読";
+"one-time-string" = "単発購入";
+"weekly-plan-string" = "週間プラン";
+"weekly-offer-string" = "3日間の無料トライアル";
+"yearly-plan-string" = "年間プラン";
+
+// GalleryView Texts
+"albums-string" = "アルバム";
+"recents-string" = "最近の写真";
+
+// OnboardingContentView Texts
+"onboarding-page1-title-string" = "AIによる画像セグメンテーションのパワーを発見";
+"onboarding-page1-description-string" = "セグメンテーションしたい画像を選択し、AIモデルに残りを任せます。";
+"onboarding-page2-title-string" = "希望のマスクを選択";
+"onboarding-page2-description-string" = "セグメンテーションされた画像のオブジェクトをタップし、カットリストを作成します。";
+"onboarding-page3-title-string" = "無制限なマスク、無限のバリエーション";
+"onboarding-page3-description-string" = "任意の数のマスクを組み合わせて保存または共有できます。";
+
+"start-button-string" = "開始";
+"next-button-string" = "次へ";
+"skip-button-string" = "スキップ";
+
+// SubscribedUserView
+"your-plan-string" = "あなたのプラン:";
+"weekly-plan-string2" = "週間プラン";
+"change-plan-string" = "プラン変更";
+"one-time-string2" = "一度の購入";
+"yearly-plan-string2" = "年間プラン";
+"terms-policy-string" = "利用規約";
+"PRIVACY_POLICY" = "プライバシーポリシー";
+"3_DAYS_FOR_FREE" = "3日間無料";
+
+// AI Cut Texts
+"TAP_TO_SEGMENT" = "セグメント";
+"WATCH_THE_AD" = "続行するために広告を視聴";
+"OR" = "または";
+"MAGIC_IS_HAPPENING" = "魔法が起こっています！";
+"CHOOSE_YOUR_MASKS" = "マスクを選択してください！";
+"INCLUDE" = "含む";
+"EXCLUDE" = "除外";
+"ADD_TO_LIST" = "リストに追加";
+"CUT_OUT_LIST" = "カットアウトリスト";
+"SAVED_TO_GALLERY" = "ギャラリーに保存！";
+
+// FAQ
+"Q1" = "画像セグメンテーションとは何ですか？";
+"A1" = "画像セグメンテーションは、画像を異なるオブジェクトや領域に分割するプロセスです。当社のアプリケーションは、このプロセスを実行するために設計されています。";
+"Q2" = "アプリをどのように使用できますか？";
+"A2" = "アプリを開き、セグメンテーションしたい画像を選択し、画像セグメンテーションプロセスを開始します。完了すると、切り抜きたいオブジェクトをタップしてカットリストを作成し、ダウンロードまたは共有できます。";
+"Q3" = "処理にはどれくらいの時間がかかりますか？";
+"A3" = "処理時間は画像のサイズと複雑さに依存します。通常、数秒から数分までかかります。";
+"Q4" = "アプリの料金はいくらですか？";
+"A4" = "無料バージョンは日々のクレジット利用が制限され、広告付きで使用できますが、広告なしのエクスペリエンスおよび1日あたりのクレジット利用量が多いサブスクリプションを提供しています。料金の詳細はアプリ内で確認できます。";
+"Q5" = "インターネットに接続していない場合、アプリを使用できますか？";
+"A5" = "アプリのすべての機能を使用するためにはインターネットに接続することをお勧めします。";
+"Q6" = "セキュリティ対策はどのようにされていますか？";
+"A6" = "当社のアプリはユーザーデータを保護するための強力なセキュリティ対策を採用しています。お客様の画像は当社のサーバーに保存されず、安全に処理されます。";
+"Q7" = "問題が発生しています。どうすればいいですか？";
+"A7" = "問題を報告し、フィードバックをinfo@fogosoft.co.ukメールアドレスに提供することができます。技術サポートチームが問題に対処します。";
+
+//Exit Dialogue
+"ARE_YOU_SURE_LEAVE" = "本当に出発しますか？";
+"IF_YOU_LEAVE" = "出発すると、セグメンテーションされた画像が失われます。";
+"YES" = "はい";
+"CANCEL" = "キャンセル";
+
+"MASK_SIZE" = "マスクサイズ";
+"MIN" = "最小";
+"MAX" = "最大";
+"BACK" = "バック";
+
+//フォトエディター
+"DONE" = "完了";
+"EDIT" = "編集";
+"All Luts" = "全てのフィルター";
+"Original" = "オリジナル";
+"Lut1" = "フィルター1";
+"Lut2" = "フィルター2";
+"Lut3" = "フィルター3";
+"Neutral" = "ニュートラル";
+"Basic" = "基本";
+"Cinematic" = "シネマティック";
+"Film" = "フィルム";
+"Selfie" = "セルフィー";
+"Save" = "保存";
+"Edit Color" = "色の編集";
+"Contrast" = "コントラスト";
+"Hue" = "色合い";
+"Saturation" = "彩度";
+"Luminance" = "輝度";
+"Brightness" = "明るさ";
+"Highlights" = "ハイライト";
+"Shadows" = "シャドウ";
+"Temperature" = "色温度";
+"Tint" = "色調";
+"White Balance" = "ホワイトバランス";
+"Tone" = "トーン";
+"HSL" = "HSL（色相、彩度、輝度）";
+"Fade" = "フェード";
+"RESET" = "リセット";
+"ORIGINAL" = "オリジナル";
+"FREEFORM" = "フリーフォーム";
+"SQUARE" = "正方形";
+"CIRCULAR" = "円形";

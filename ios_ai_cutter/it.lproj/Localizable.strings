@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings Italian
+  ios_ai_cutter
+
+  Created by Duhan Boblanlı on 6.09.2023.
+  
+*/
+
+// HorizontalScrollView Texts
+"recently-string" = "Recenti";
+"library-access-string" = "Si prega di consentire l'accesso alla libreria delle foto";
+"no-photos-string" = "Nessuna foto da mostrare";
+"add-photos-string" = "Si prega di aggiungere foto";
+"ok-string" = "OK";
+
+// SubscriptionNavigationButton Texts
+"remaining-usage-string" = "Utilizzo giornaliero rimanente :";
+"full-access-string" = "Ottieni l'accesso completo alle funzionalità premium!";
+
+// SideMenu Texts
+"settings-string" = "Impostazioni";
+"subscription-plan-string" = "Piano di abbonamento";
+"faq-string" = "Domande frequenti";
+"about-string" = "Informazioni";
+
+// SettingsView Texts
+"mode-string" = "Modalità";
+"language-string" = "Lingua";
+"MANAGE_PERMISSIONS" = "Gestisci le autorizzazioni";
+"SEND_FEEDBACK" = "Invia un feedback";
+"INVITE_FRIENDS" = "Invita amici";
+"RATE_US_ON_APPSTORE" = "Valutaci sull'App Store";
+
+// AboutView Texts
+"privacy-policy-string" = "Informativa sulla privacy";
+"terms-string" = "Condizioni d'uso";
+"version-string" = "Versione: ";
+"email-string" = "info@fogosoft.co.uk";
+"ltd-string" = "FOGOSOFT Ltd.";
+
+// LanguageView Texts
+"language-string" = "Lingua";
+// Same in all languages
+"eng-string" = "English";
+"spn-string" = "Español";
+"ger-string" = "Deutsch";
+"fr-string" = "Français";
+"it-string" = "Italiano";
+"rus-string" = "Русский";
+"tr-string" = "Türkçe";
+"jap-string" = "日本語";
+"zh-hans-string" = "中文(简体)"; // simplified-chinese
+
+// SubscriptionView Texts
+"remove-ads-string" = "Esperienza senza pubblicità";
+"credit-string" = "x credito/giorno";
+"restore-string" = "Ripristina";
+"subs-string" = "ABBONATI";
+"one-time-string" = "Acquisto singolo";
+"weekly-plan-string" = "Piano settimanale";
+"weekly-offer-string" = "Prova gratuita di 3 giorni";
+"yearly-plan-string" = "Piano annuale";
+
+// GalleryView Texts
+"albums-string" = "Album";
+"recents-string" = "Recenti";
+
+// OnboardingContentView Texts
+"onboarding-page1-title-string" = "Scopri il Potere della Segmentazione delle Immagini con l'IA";
+"onboarding-page1-description-string" = "Seleziona l'immagine che desideri segmentare e lascia che il nostro modello IA faccia il resto.";
+"onboarding-page2-title-string" = "Scegli le maschere desiderate";
+"onboarding-page2-description-string" = "Tocca gli oggetti che desideri nella foto segmentata e crea la tua lista di ritagli.";
+"onboarding-page3-title-string" = "Maschere illimitate, infinite variazioni";
+"onboarding-page3-description-string" = "Puoi combinare qualsiasi numero di maschere e poi salvarle o condividerle.";
+
+"start-button-string" = "INIZIA";
+"next-button-string" = "Avanti";
+"skip-button-string" = "Salta";
+
+// SubscribedUserView
+"your-plan-string" = "Il Tuo Piano:";
+"weekly-plan-string2" = "Piano Settimanale";
+"change-plan-string" = "CAMBIA PIANO";
+"one-time-string2" = "Acquisto Singolo";
+"yearly-plan-string2" = "Piano Annuale";
+"terms-policy-string" = "Condizioni d'Uso";
+"PRIVACY_POLICY" = "Informativa sulla privacy";
+"3_DAYS_FOR_FREE" = "3 giorni gratuiti";
+
+// AI Cut Texts
+"TAP_TO_SEGMENT" = "Tocca per Segmentare";
+"WATCH_THE_AD" = "Guarda l'annuncio per continuare";
+"OR" = "o";
+"MAGIC_IS_HAPPENING" = "La magia sta accadendo!";
+"CHOOSE_YOUR_MASKS" = "Scegli le tue Maschere!";
+"INCLUDE" = "Includi";
+"EXCLUDE" = "Escludi";
+"ADD_TO_LIST" = "Aggiungi alla Lista";
+"CUT_OUT_LIST" = "Lista di Ritagli";
+"SAVED_TO_GALLERY" = "Salvato nella Galleria!";
+
+// FAQ
+"Q1" = "Cos'è la Segmentazione delle Immagini?";
+"A1" = "La Segmentazione delle Immagini è un processo utilizzato per separare un'immagine in diverse parti o regioni. La nostra app è progettata per eseguire questo processo.";
+"Q2" = "Come posso utilizzare la tua app?";
+"A2" = "Apri l'app, seleziona l'immagine che desideri segmentare, quindi avvia il processo di Segmentazione delle Immagini. Quando è completo, puoi toccare gli oggetti che desideri ritagliare e creare la tua lista di ritagli da scaricare o condividere.";
+"Q3" = "Quanto tempo impiega il processo?";
+"A3" = "Il tempo di elaborazione dipende dalle dimensioni e dalla complessità dell'immagine. In genere varia da pochi secondi a pochi minuti.";
+"Q4" = "Qual è il costo della tua app?";
+"A4" = "La versione gratuita ha un utilizzo giornaliero limitato di crediti ed è possibile utilizzarla con pubblicità, ma offriamo un abbonamento per un'esperienza senza pubblicità e un utilizzo molto maggiore di crediti al giorno. I dettagli dei prezzi sono disponibili all'interno dell'app.";
+"Q5" = "Posso utilizzare l'app senza una connessione Internet?";
+"A5" = "Per poter utilizzare tutte le funzionalità dell'app, consigliamo di essere connessi a Internet.";
+"Q6" = "Quali misure di sicurezza sono in atto?";
+"A6" = "La nostra app utilizza robuste misure di sicurezza per proteggere i dati dell'utente. Le tue immagini non vengono memorizzate sui nostri server e vengono elaborate in modo sicuro.";
+"Q7" = "Sto riscontrando problemi. Cosa devo fare?";
+"A7" = "Puoi segnalare i tuoi problemi e fornire feedback all'indirizzo email info@fogosoft.co.uk. Il nostro team di supporto tecnico ti assisterà con qualsiasi problema.";
+
+//Exit Dialogue
+"ARE_YOU_SURE_LEAVE" = "Sei sicuro di voler uscire?";
+"IF_YOU_LEAVE" = "Se esci, perderai l'immagine segmentata.";
+"YES" = "Sì";
+"CANCEL" = "Annulla";
+
+"MASK_SIZE" = "Dimensione della maschera";
+"MIN" = "Minimo";
+"MAX" = "Massimo";
+"BACK" = "Indietro";
+
+//Editor di Foto
+"DONE" = "Fatto";
+"EDIT" = "MODIFICA";
+"All Luts" = "Tutti i Filtri";
+"Original" = "Originale";
+"Lut1" = "Filtro1";
+"Lut2" = "Filtro2";
+"Lut3" = "Filtro3";
+"Neutral" = "Neutrale";
+"Basic" = "Base";
+"Cinematic" = "Cinematografico";
+"Film" = "Film";
+"Selfie" = "Selfie";
+"Save" = "Salva";
+"Edit Color" = "Modifica Colore";
+"Contrast" = "Contrasto";
+"Hue" = "Tonalità";
+"Saturation" = "Saturazione";
+"Luminance" = "Luminanza";
+"Brightness" = "Luminosità";
+"Highlights" = "Luci";
+"Shadows" = "Ombre";
+"Temperature" = "Temperatura";
+"Tint" = "Tonalità";
+"White Balance" = "Bilanciamento del Bianco";
+"Tone" = "Tono";
+"HSL" = "TSL";
+"Fade" = "Sfuma";
+"RESET" = "RIPRISTINA";
+"ORIGINAL" = "ORIGINALE";
+"FREEFORM" = "FORMA LIBERA";
+"SQUARE" = "QUADRATO";
+"CIRCULAR" = "CIRCOLARE";

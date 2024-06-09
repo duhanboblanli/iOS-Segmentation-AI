@@ -1,0 +1,7 @@
+You are hereby granted a non-exclusive, non-transferable, non-sublicensable, worldwide license to use this Software Development Kit (SDK) and any related technology with it in source code or binary form provided by Mintegral solely for use in connection with the service provided by Mintegral. 
+
+Mintegral retains the exclusive ownership and intellectual property rights in and to the SDK and any related technology with it provided to You.
+
+You use of this SDK and any technology with it is subject to the MINTEGRAL STANDARD TERMS AND CONDITIONS in [https://dev.mintegral.com/document/term]. This copyright notice shall be included in all copies or substantial portions of this SDK.
+
+EXCEPT AS OTHERWISE PROVIDED IN THE MINTEGRAL STANDARD TERMS AND CONDITIONS, THIS SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR              IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS           FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR             COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER          IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH USE OF THE SDK OR ANY TECHNOLOGY WITH IT. 
