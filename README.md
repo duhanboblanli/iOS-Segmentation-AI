@@ -15,8 +15,7 @@
 ![Badge](https://img.shields.io/badge/Model-SAM-yellow) 
 
 
-Welcome to the 'Segment AI: Cut-Out Objects' application, developed for Visover Software Technologies. This repository serves as a demonstration and therefore its files are kept confidential.
-
+Welcome to the 'Segment AI: Cut-Out Objects' application, developed for Visover Software Technologies. This repository serves as a demonstration and therefore its important files are kept confidential.
 
 ## About the Application
 
