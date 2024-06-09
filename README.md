@@ -1,4 +1,4 @@
-ğ# Segment AI: Cut-Out Objects
+# Segment AI: Cut-Out Objects
 
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/35d98387-49d6-480b-8003-c45b2ea622d5">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e30d5d82-895b-4330-8b8b-c61b2b5eb03a">
