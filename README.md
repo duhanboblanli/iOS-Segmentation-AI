@@ -10,9 +10,6 @@
 <img width="200" alt="" src="">
 <img width="200" alt="" src="">
 
-![Ekran Resmi 2024-06-10 00 47 05](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e915d8f3-740c-4718-aee6-5a84362a7f31)
-
-
 ![Badge](https://img.shields.io/badge/Dietitian-Application-purple)
 ![Badge](https://img.shields.io/badge/Nutrition-App-Pink)
 ![Badge](https://img.shields.io/badge/ChatAndTracker-App-pink)
@@ -35,17 +32,7 @@ As part of the thesis, an iOS application for Dietitians was developed using Swi
 
 The software architecture chosen is a monolithic architecture, with a layered architecture created. For security purposes, user authentication and authorization processes are provided using the JWT mechanism. Hibernate is used as the ORM technology, and MySQL relational database is preferred for data management.
 
-### Technologies:
 
-<img width="655" alt="Ekran Resmi 2024-06-05 20 12 15" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/8d131daa-3bcd-4e93-9507-572e6c3f0227">
-
-### ER Model:
-![ER Model](https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/7e998bed-e66e-45ea-9c9a-436690f57c02)
-
-
-
-### Swagger:
-<img width="1440" alt="swagger" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/30981f89-5f30-4140-b8f7-1efd34ccb698">
 
 
 # Snapshots of iOS App
@@ -100,10 +87,20 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 
 
 # Snapshots of iOS App
-<img width="200" alt="Ekran Resmi 2024-05-07 18 45 30" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/4ffdda80-5942-4dfa-9b89-7bbe1beb6f67"><img width="200" alt="Ekran Resmi 2024-05-07 18 45 37" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/dab684f1-c39a-4e7a-a233-f8d3b4a7f859"><img width="200" alt="Ekran Resmi 2024-05-07 18 45 56" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/79f00ba5-7c7f-49cc-8a5e-a53c77e7e53a"><img width="200" alt="Ekran Resmi 2024-05-07 18 46 35" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/5c2ffa0c-939f-492a-90c1-ce64f57ea859"><img width="200" alt="Ekran Resmi 2024-05-07 18 46 59" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/a707d32a-d748-4102-b363-f550df034ed0"><img width="200" alt="main" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/52798643-78d5-4cc0-b5f3-a3e7593f2fe8"><img width="200" alt="Ekran Resmi 2024-05-07 18 49 59" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/124e4318-7a5b-42c0-852d-7ce95fa66216"><img width="200" alt="Ekran Resmi 2024-05-07 18 48 58" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/2a43920c-e5cc-4cf2-be36-fe54133f5141"><img width="200" alt="Ekran Resmi 2024-05-07 18 48 47" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/a4cf546f-ca14-4a05-a3cd-9c746cc5460d"><img width="200" alt="Ekran Resmi 2024-05-07 18 50 41" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/84b6be90-1eca-4411-9ae8-2b2c7443b94a"><img width="200" alt="Ekran Resmi 2024-05-07 18 50 58" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/a5b8c2fd-eff3-49bb-97da-1caed3302df2"><img width="200" alt="Ekran Resmi 2024-05-07 18 49 13" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/e4a81c81-176b-4c5a-b718-cef5118893d2"><img width="200" alt="Ekran Resmi 2024-05-07 18 49 16" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/d4db958e-f253-4c45-a3cf-9740fc5a0764"><img width="200" alt="Ekran Resmi 2024-06-08 13 17 28" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/b1588ddb-14b7-4256-8083-d5408f30fbab"><img width="200" alt="Ekran Resmi 2024-05-07 18 49 34" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/e50f825c-075a-4edf-ab85-f16df42a5409"><img width="200" alt="Ekran Resmi 2024-05-07 18 49 43" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/9dc3b5f6-60dc-4083-bd16-e1490c25ded7">
+<img width="200" alt="Image 1" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/0ba57fd6-ba3e-45ef-8de3-f4acf01f163c">
+<img width="200" alt="Image 2" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/65c23694-efec-4201-a9ca-99cb851307a7">
+<img width="200" alt="Image 3" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/68da282c-72f4-490b-8021-fffc7e355a2a">
+<img width="200" alt="Image 4" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/1a56e32c-bc27-4d95-98d8-c5a2837c91de">
+<img width="200" alt="Image 5" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/b1f95540-257f-48bf-99b9-fb39687d26ce">
+<img width="200" alt="Image 6" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/raw/main/assets/77344408/3f8482dc-7ddc-48df-a7e3-784064d81ac2">
+<img width="200" alt="Image 7" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/raw/main/assets/77344408/30981f89-5f30-4140-b8f7-1efd34ccb698">
 
-# Snapshots of Android App
-<img width="200" alt="a1" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/5947602d-4e6a-4877-8f89-b9507f6a0907"><img width="200" alt="a2" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/0f60cc7a-cfa9-490a-9887-2ba7e880a539"><img width="200" alt="a3" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/876a16e8-2f5f-4cc5-afbc-2225a0a8b3a9"><img width="200" alt="a4" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/f7e66ba7-6591-4a23-9d4a-87c4840a97a8"><img width="200" alt="a5" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/5ae54269-f5d1-4cd4-99d2-0efac7bc914a"><img width="200" alt="a6" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/6e3f28a0-0fa2-40b0-9836-69457e651e31"><img width="200" alt="a7" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/7243c43d-a535-456e-b548-9105c5bf1299"><img width="200" alt="a8" src="https://github.com/duhanboblanli/Dietitian-Calorie-Counter/assets/77344408/482fd2f4-7498-4995-893f-30b30f2b435e">
+
+
+
+
+
+
 
 
 
