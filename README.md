@@ -1,21 +1,15 @@
 # iOS Segmentation AI App for Visover Software Technologies
 
-<img width="200" alt="" src="![Ekran Resmi 2024-06-10 00 29 33](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/35e78cf3-1e98-424c-ac1c-3161df88324b)">
+
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/35d98387-49d6-480b-8003-c45b2ea622d5">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/1a90ddd6-4d7e-4bd5-b040-3a2e96886b76">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/9c4b670e-0684-4bde-aa12-77c93b1916aa">
+
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c3a09d91-d128-4f46-a707-9a6c79b118c5">
 <img width="200" alt="" src="">
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
-
-<img width="200" alt="" src="">
-<img width="200" alt="" src="">
 
 
 
-
-![Ekran Resmi 2024-06-10 00 29 10](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/1a90ddd6-4d7e-4bd5-b040-3a2e96886b76)
-
-![Ekran Resmi 2024-06-10 00 29 45](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/9c4b670e-0684-4bde-aa12-77c93b1916aa)
-
-![Ekran Resmi 2024-06-10 00 29 50](https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c3a09d91-d128-4f46-a707-9a6c79b118c5)
 
 ![Badge](https://img.shields.io/badge/Dietitian-Application-purple)
 ![Badge](https://img.shields.io/badge/Nutrition-App-Pink)
