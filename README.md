@@ -5,7 +5,7 @@
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e30d5d82-895b-4330-8b8b-c61b2b5eb03a">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/9d2ac6d1-4c66-4920-8876-049643d148b5">
 
-<img width="202" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e915d8f3-740c-4718-aee6-5a84362a7f31">
+<img width="203" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/e915d8f3-740c-4718-aee6-5a84362a7f31">
 <img width="200" alt="" src="">
 <img width="200" alt="" src="">
 <img width="200" alt="" src="">
