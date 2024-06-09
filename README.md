@@ -14,10 +14,9 @@
 ![badge](https://img.shields.io/badge/WebService-AWS-yellowgreen)
 ![Badge](https://img.shields.io/badge/Model-SAM-yellow) 
 
+## About the Application
 
 Welcome to the 'Segment AI: Cut-Out Objects' application, developed for Visover Software Technologies. This repository serves as a demonstration and therefore its important files are kept confidential.
-
-## About the Application
 
 'Segment AI: Cut-Out Objects' is an advanced image segmentation application available on the App Store. Enjoy state-of-the-art image segmentation on your iPhone or iPad. All processing is done through AWS, ensuring powerful and efficient performance. The application is optimized for smooth, reliable operation.
 
