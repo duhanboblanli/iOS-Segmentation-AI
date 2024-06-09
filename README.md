@@ -60,10 +60,9 @@ The software architecture chosen is a monolithic architecture, with a layered ar
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/83f443ed-3516-4ba5-adab-27aef993ab72">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/73124fa8-ff34-4266-83b6-51b0baa7b171">
 <img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/3ed3b869-ea5c-4ebe-8e3a-8efb67b05db0">
-
-
-
-
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/541a07e0-3774-40f3-af3b-0e70d389bf84">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c28be11a-a5b9-45de-a6fb-e7a707acdd83">
+<img width="200" alt="" src="https://github.com/duhanboblanli/iOS-Segmentation-AI/assets/77344408/c912aea4-2d41-4afe-b934-731720a804f8">
 
 
 
